@@ -1,4 +1,4 @@
-# PLSynch
+# PLSync
 
 Synchronize Playlists between different music playing software.
 
